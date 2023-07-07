@@ -1,1 +1,1 @@
-# Openpecha-Idea-bank
+# openpecha-idea-bank
